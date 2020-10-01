@@ -1,0 +1,24 @@
+/*! INICIO : ESTILO MODAL CREAR NUEVA PELICULA */
+
+.styleForm {
+    background-color: black;
+    color: white;
+}
+
+.campos {
+    width: 100%;
+}
+
+.colorButton {
+    background-color: #DC143C;
+    color: #FFF8DC;
+    text-decoration: solid;
+}
+
+.colorButton:hover {
+    background-color: #DC143C;
+    color: #FFF8DC;
+}
+
+
+/*! FIN : ESTILO MODAL CREAR NUEVA PELICULA */
